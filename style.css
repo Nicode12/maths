@@ -1,0 +1,29 @@
+
+#fzh{
+  text-decoration: underline;
+  font-size: 25px;
+  text-align: center;
+}
+.cz{
+  text-decoration: underline;
+  text-align: center;
+  font-size: 23px;
+}
+p{
+  padding-top: 0.1%;
+}
+a:link{
+  padding-top: 1px;
+  color: red;
+}
+a:visited{
+  color: red;
+}
+#logo{
+ height: 100px;
+ width: 100px;
+}
+fb{
+  padding-top: 10%;
+  margin-top: 10%;
+}
